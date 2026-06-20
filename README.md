@@ -81,9 +81,9 @@ Network Engineer passionate about **cloud architecture**, **Web3 ecosystems**, a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALLEN_AYODEJI&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=tokyonight&layout=compact&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALLEN-AYODEJI&theme=tokyonight&layout=compact&langs_count=10)
 
 </div>
 
@@ -93,7 +93,7 @@ Network Engineer passionate about **cloud architecture**, **Web3 ecosystems**, a
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ALLEN-AYODEJI&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
