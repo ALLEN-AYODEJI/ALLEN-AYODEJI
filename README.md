@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Welcome Message -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=120&lines=Hi,+welcome+👋;Network+Engineer+→+Cloud+Architect;Web3+Contributor;Frontend+Developer;Let's+build+something+amazing" alt="Animated Welcome">
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=120&lines=Hi,+welcome+👋;Network+Engineer+→+Cloud+Enthusiast;Web3+Developer;Frontend+Developer;Researcher;Let's+build+something+amazing" alt="Animated Welcome">
 
 </div>
 
@@ -81,7 +81,7 @@ Network Engineer passionate about **cloud architecture**, **Web3 ecosystems**, a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALLEN_AYODEJI&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALLEN-AYODEJI&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALLEN-AYODEJI&theme=tokyonight&layout=compact&langs_count=10)
 
