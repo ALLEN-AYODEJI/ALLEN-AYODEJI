@@ -22,7 +22,7 @@
 
 ## 💼 **About Me**
 
-Network Engineer passionate about **cloud architecture**, **Web3 ecosystems**, and **secure infrastructure**. Currently transitioning into cloud-native technologies while contributing to **open-source** projects and **decentralized networks**.
+Network Engineer passionate about **cloud architecture**, **Web3 ecosystems**, and **secure infrastructure**. Actively contributing to **open-source** projects and **decentralized networks**.
 
 ---
 
