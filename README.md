@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Welcome Message -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=120&lines=Hi,+I'm+ALLEN+👋;Network+Engineer+→+Cloud+Architect;Web3+Developer;Pentester;Researcher;Let's+build+something+amazing" alt="Animated Welcome">
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=120&lines=Hi,+I'm+ALLEN+👋;Network+Engineer+→+Cloud+Architect;Web3+Developer;Pentester;Researcher;Let's+build+something+amazing+!" alt="Animated Welcome">
 </div>
 
 ---
