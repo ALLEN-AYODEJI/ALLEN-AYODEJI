@@ -6,6 +6,8 @@
 
 ---
 
+![](https://github.com/[ALLEN-AYODEJI]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+
 ## 🌐 **Socials**
 
 <div align="center">
