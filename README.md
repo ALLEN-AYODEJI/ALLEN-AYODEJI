@@ -79,8 +79,6 @@ Network Engineer passionate about **cloud architecture**, **Web3 ecosystems**, *
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ALLEN-AYODEJI&theme=radical&hide_border=true&border_radius=20&short_numbers=true)](https://git.io/streak-stats)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALLEN-AYODEJI&theme=tokyonight&layout=compact&langs_count=10)
 
 </div>
@@ -91,7 +89,7 @@ Network Engineer passionate about **cloud architecture**, **Web3 ecosystems**, *
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ALLEN-AYODEJI)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ALLEN-AYODEJI&theme=radical&hide_border=true&border_radius=20&short_numbers=true)](https://git.io/streak-stats)
 
 </div>
 
