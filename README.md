@@ -79,7 +79,7 @@ Network Engineer passionate about **cloud architecture**, **Web3 ecosystems**, *
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALLEN-AYODEJI&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ALLEN-AYODEJI&theme=radical&hide_border=true&border_radius=20&short_numbers=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALLEN-AYODEJI&theme=tokyonight&layout=compact&langs_count=10)
 
