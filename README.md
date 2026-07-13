@@ -160,7 +160,7 @@ div align="center">
       <source srcset="./assets/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
       <img src="./assets/github-contribution-grid-snake.svg" alt="Github contribution grid snake animation">
     </picture>
-  </div>
+</div>
           
 ## 📞 **Let's Connect**
 
