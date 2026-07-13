@@ -80,9 +80,8 @@ Network Engineer passionate about **cloud architecture**, **Web3 ecosystems**, *
 <div align="center">
 
 <p>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eottabom&theme=github_dark" width="32%" /></a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eottabom&theme=github_dark" width="32%" /></a>
-  <img src="https://raw.githubusercontent.com/eottabom/eottabom/main/output/streak-stats.svg" width="32%" alt=""/>
+  <a href="https://github.com/ALLEN-AYODEJI/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eottabom&theme=github_dark" width="32%" /></a>
+  <a href="https://github.com/ALLEN-AYODEJI/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eottabom&theme=github_dark" width="32%" /></a>
 </p>
 
 </div>
