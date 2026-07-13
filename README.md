@@ -79,7 +79,14 @@ Network Engineer passionate about **cloud architecture**, **Web3 ecosystems**, *
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALLEN-AYODEJI&theme=tokyonight&layout=compact&langs_count=10)
+<p>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eottabom&theme=github_dark" width="32%" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eottabom&theme=github_dark" width="32%" /></a>
+  <!-- Previous streak-stats source kept for reference:
+  <img src="https://streak-stats.demolab.com?user=eottabom&theme=github-dark-blue&hide_border=true&background=20232a&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=fff&sideNums=fff&currStreakNum=fff&dates=aaa" width="32%" alt=""/>
+  -->
+  <img src="https://raw.githubusercontent.com/eottabom/eottabom/main/output/streak-stats.svg" width="32%" alt=""/>
+</p>
 
 </div>
 
