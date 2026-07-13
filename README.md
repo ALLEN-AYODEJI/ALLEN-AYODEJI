@@ -154,6 +154,14 @@ Network Engineer (GrandView Technologies)
 
 ---
 
+div align="center">
+    <picture>
+      <source srcset="./assets/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+      <source srcset="./assets/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+      <img src="./assets/github-contribution-grid-snake.svg" alt="Github contribution grid snake animation">
+    </picture>
+  </div>
+          
 ## 📞 **Let's Connect**
 
 <div align="center">
